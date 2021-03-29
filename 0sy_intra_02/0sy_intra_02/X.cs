@@ -5,6 +5,6 @@
     /// </summary>
     public class X
     {
-
+        // J'ai dit pas touche! :)
     }
 }
