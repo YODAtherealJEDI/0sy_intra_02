@@ -1,1 +1,1 @@
-"# 0sy_intra_02" 
+# Structure de base pour l'intra 02
